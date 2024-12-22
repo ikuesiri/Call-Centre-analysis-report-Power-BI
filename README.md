@@ -4,4 +4,4 @@
 ####  Completed a job simulation where I strengthened my PowerBI skills to better
    understand clients and their data visualisation needs.
 
-![TASK1](pwc_t1)
+![TASK1](https://github.com/ikuesiri/Call-Centre-analysis-report-Power-BI/blob/main/pwc_t1.jpg)
